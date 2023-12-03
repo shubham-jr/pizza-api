@@ -1,0 +1,9 @@
+node_modules/
+.vscode/
+plop_templates/
+plopfile.js
+.track/ 
+*.env
+key/
+
+
