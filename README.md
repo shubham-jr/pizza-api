@@ -44,7 +44,7 @@ The REST API is described below.
     "password":"test1234",
     "address":"abc"
 
-}
+
 
 ### Response
 
@@ -60,7 +60,7 @@ The REST API is described below.
     },
     "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MDE1MjY2NTMsImV4cCI6MTcwMTYxMzA1M30.fdot1gxD9KzYP8LB33ubWjoEsMus43T8Q4cwve6aqcQ"
 
-}
+
 
 ## Login
 
@@ -74,7 +74,7 @@ The REST API is described below.
     "email":"sheru2@gmail.com",
     "password":"test1234"
 
-}
+
 
 ### Response
 
@@ -90,7 +90,7 @@ The REST API is described below.
     },
     "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MywiaWF0IjoxNzAxNTgyMTU4LCJleHAiOjE3MDE2Njg1NTh9.VesGxbdz0MxLqE_1RMqeOvPrRKepwCRzAajZmH3JihU"
 
-}
+
 
 ## Create order
 
@@ -120,7 +120,7 @@ The REST API is described below.
         }
     ]
 
-}
+
 
 ## Get all orders
 
@@ -160,7 +160,7 @@ The REST API is described below.
         ]
     }
 
-}
+
 
 ## Update Order
 
@@ -189,7 +189,7 @@ The REST API is described below.
         }
     ]
 
-}
+
 
 ## Cancel Order
 
@@ -226,4 +226,4 @@ The REST API is described below.
         }
     ]
 
-}
+
